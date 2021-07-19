@@ -4,7 +4,6 @@
 ### Version 1 :
 * The data is stored locally and not on Firestore
 * GraphQL has not been used.
-version 1 is hosted [HERE!](https://ak-clothing-attempt-two.herokuapp.com/)
 
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
@@ -72,35 +71,6 @@ The following software is required to be installed on your system:
 
 * Node 8.x
 * Npm 3.x
-
-Type the following commands in the terminal to verify your node and npm versions
-
-```bash
-node -v
-npm -v
-```
-
-### Install
-
-Follow the following steps to get development environment running.
-
-* Clone _'react-e-commerce-website.git'_ repository from GitHub
-
-  ```bash
-  git clone https://github.com/AdityaKumawat97/react-e-commerce-website.git
-  ```
-
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:AdityaKumawat97/react-e-commerce-website.git
-  ```
-
-* Install node modules
-
-   ```bash
-   npm install
-   ```
 
 
 ### Starting front-end servers
