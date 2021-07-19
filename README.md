@@ -29,10 +29,6 @@ The application is composed of the following Features:
 **Progress:**
 Version 1 completed and hosted
 
-Version 2 Progress: 50%
-<br/>
-![](src/assets/progressbar.png)
-
 
 **SCREENSHOTS:**
 
